@@ -1,1 +1,4 @@
 # CodehubPriyanshu-Vehical-Management-Java
+The Vehicle Management System is a simple Java console application designed to manage vehicle records efficiently. Users can add new vehicles by providing details such as make, model, year, and price. The application stores these records and allows users to view the list of added vehicles, making it a handy tool for vehicle inventory management. The program features a user-friendly menu-driven interface with options like adding a vehicle, viewing all vehicles, and exiting the application. This project showcases core Java programming concepts, including classes, objects, and basic input/output operations. Below is a screenshot of the application's functionality:
+![Screenshot 2025-01-10 123852](https://github.com/user-attachments/assets/236df891-3323-431c-80b8-641fd4d12e6d)
+![Screenshot 2025-01-10 123930](https://github.com/user-attachments/assets/aa4cefee-9617-4237-a397-7bd537888c9a)
